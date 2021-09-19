@@ -1,0 +1,13 @@
+C:\Users\artik\source\repos\Procces3\Procces3\bin\Debug\Procces3.exe.config
+C:\Users\artik\source\repos\Procces3\Procces3\bin\Debug\Procces3.exe
+C:\Users\artik\source\repos\Procces3\Procces3\bin\Debug\Procces3.pdb
+C:\Users\artik\source\repos\Procces3\Procces3\bin\Debug\MathNet.Numerics.dll
+C:\Users\artik\source\repos\Procces3\Procces3\bin\Debug\MathNet.Numerics.xml
+C:\Users\artik\source\repos\Procces3\Procces3\obj\Debug\Procces3.csprojAssemblyReference.cache
+C:\Users\artik\source\repos\Procces3\Procces3\obj\Debug\Procces3.Form1.resources
+C:\Users\artik\source\repos\Procces3\Procces3\obj\Debug\Procces3.Properties.Resources.resources
+C:\Users\artik\source\repos\Procces3\Procces3\obj\Debug\Procces3.csproj.GenerateResource.cache
+C:\Users\artik\source\repos\Procces3\Procces3\obj\Debug\Procces3.csproj.CoreCompileInputs.cache
+C:\Users\artik\source\repos\Procces3\Procces3\obj\Debug\Procces3.csproj.CopyComplete
+C:\Users\artik\source\repos\Procces3\Procces3\obj\Debug\Procces3.exe
+C:\Users\artik\source\repos\Procces3\Procces3\obj\Debug\Procces3.pdb
